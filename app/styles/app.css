@@ -1,0 +1,56 @@
+h1 {
+  color: #56E39F;
+}
+
+body {
+  background-image: url("http://4.bp.blogspot.com/-AGHuk4IgmXc/VSFEGtLMPwI/AAAAAAAADcE/25SUaKoegOw/s1600/07.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron {
+  color: #56E39F;
+  background-color: #297373;
+  opacity: .8;
+  text-align: center;
+}
+
+.well {
+  opacity: .85;
+  background-color: #297373;
+}
+
+.well h3, h2 {
+  color: #56E39F;
+}
+
+.well h4 {
+  color: #DB5461;
+}
+
+a, p {
+  color: #DB5461;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+button {
+  background-color: #744FC6;
+  color: #56E39F;
+}
+
+.announcements {
+  color: #DB5461;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.announcement-body {
+  font-size: 20px;
+  color: white;
+  font-style: italic;
+}
+
+img {
+  width: 100%;
+}

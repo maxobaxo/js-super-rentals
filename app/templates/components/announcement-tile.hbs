@@ -1,5 +1,6 @@
-<li>
-  {{announcement.title}}! {{announcement.body}}
+<li class="announcements">
+  {{announcement.title}}! <br>
+  <span class="announcement-body">{{announcement.body}}</span> 
 </li>
 
-<button {{action 'delete' announcement}}>Delete Your life story</button>
+<button {{action 'delete' announcement}} class="btn">Delete Your life story</button>
